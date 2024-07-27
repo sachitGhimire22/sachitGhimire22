@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **frontend skill development**
 
-- 🌱 I’m currently learning **full stack development using Django**
-
 - 💬 Ask me about **frontend**
 
-- 📫 How to reach me **sachitgh2@gmail.com**
-
-- ⚡ go!!!!!!! **go get it**
+- 📫 How to reach me **gsachit22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
