@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachit Ghimire</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Database**
+- 🔭 I’m currently working on **Data Science**
 
-- 💬 Ask me about **Database**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **gsachit22@gmail.com**
 
